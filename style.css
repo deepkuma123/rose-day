@@ -660,6 +660,12 @@ p.demos {
   -ms-animation-delay: 14s;
   animation-delay: 14s;
 }
+.sp-container h2.frame-5 span:nth-child(4) {
+  -webkit-animation-delay: 15s;
+  -moz-animation-delay: 15s;
+  -ms-animation-delay: 15s;
+  animation-delay: 15s;
+}
 .sp-globe {
   position: absolute;
   width: 282px;
